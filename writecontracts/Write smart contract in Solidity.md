@@ -151,3 +151,5 @@ tonos-cli call '<YourAddress>' sendTransaction '{"dest":"DestAddress", "value":1
 -   深入研究TON智能合约开发的某些方面
 -   从 [GitHub](https://github.com/tonlabs/tonos-cli) 中的源代码构建 CLI 实用程序以确保您拥有最新版本 
 -   查看我们的研究论文和 [TON docs in readable format](https://docs.ton.dev/86757ecb2/p/07ddda-walk-through-the-catchain)
+
+> 英文链接：[Write smart contract in Solidity](https://docs.ton.dev/86757ecb2/p/950f8a-write-smart-contract-in-solidity*)
