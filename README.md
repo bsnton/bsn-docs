@@ -29,3 +29,13 @@ DeBot 最基本的是一个基于聊天的安全界面，它允许用户与区�
 ![](https://docs.ton.dev/uploads/KPwlh26fN52e0TF6YcpZSQ.svg)
 
 Debot开发指南：https://github.com/tonlabs/debots
+
+# WRITE目录
+## 写智能合约
+>[开始使用TON智能合约](https://github.com/bsnton/bsn-docs/blob/9792d6a1a819fb04977380747908b06f6b5d0de8/write%20smart%20contracts/Getting%20started%20with%20TON%20smart%20contracts.md)
+ >[使用Solidity写智能合约](https://github.com/bsnton/bsn-docs/blob/9792d6a1a819fb04977380747908b06f6b5d0de8/write%20smart%20contracts/Write%20smart%20contract%20in%20Solidity.md)
+> [使用C++写智能合约](https://github.com/bsnton/bsn-docs/blob/9792d6a1a819fb04977380747908b06f6b5d0de8/write%20smart%20contracts/C++%20Tutorial.md)
+> [使用C语言写giver](https://github.com/bsnton/bsn-docs/blob/9792d6a1a819fb04977380747908b06f6b5d0de8/write%20smart%20contracts/Giver%20in%20C.md)
+> [TON solidity API](https://github.com/bsnton/bsn-docs/blob/9792d6a1a819fb04977380747908b06f6b5d0de8/write%20smart%20contracts/Solidity%20API%20for%20TON.md)
+## 编译器和工具
+>[概述](https://github.com/bsnton/bsn-docs/blob/911e94d2a92f390829eb6ed9dc3a863ab6443ec5/compilers%20and%20tools/General.md)
