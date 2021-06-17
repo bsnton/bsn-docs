@@ -32,7 +32,7 @@ Debot开发指南：https://github.com/tonlabs/debots
 
 # WRITE目录
 ## 写智能合约
->[开始使用TON智能合约](https://github.com/bsnton/bsn-docs/blob/9792d6a1a819fb04977380747908b06f6b5d0de8/write%20smart%20contracts/Getting%20started%20with%20TON%20smart%20contracts.md)
+>[开始使用TON智能合约](https://github.com/bsnton/bsn-docs/blob/9792d6a1a819fb04977380747908b06f6b5d0de8/write%20smart%20contracts/Getting%20started%20with%20TON%20smart%20contracts.md) 
  >[使用Solidity写智能合约](https://github.com/bsnton/bsn-docs/blob/9792d6a1a819fb04977380747908b06f6b5d0de8/write%20smart%20contracts/Write%20smart%20contract%20in%20Solidity.md)
 > [使用C++写智能合约](https://github.com/bsnton/bsn-docs/blob/9792d6a1a819fb04977380747908b06f6b5d0de8/write%20smart%20contracts/C++%20Tutorial.md)
 > [使用C语言写giver](https://github.com/bsnton/bsn-docs/blob/9792d6a1a819fb04977380747908b06f6b5d0de8/write%20smart%20contracts/Giver%20in%20C.md)
