@@ -1,6 +1,6 @@
 WRITE SMART CONTRACTS
 
-# 使用C写Giver
+# 使用C语言写Giver
 
 *本教程旨在向您介绍用 C 编写合约。它演示了如何编写一个简单的Giver合约和一个客户端。*
 
