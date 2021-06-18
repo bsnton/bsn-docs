@@ -39,4 +39,7 @@ Debot开发指南：https://github.com/tonlabs/debots
 > [TON solidity API](https://github.com/bsnton/bsn-docs/blob/9792d6a1a819fb04977380747908b06f6b5d0de8/write%20smart%20contracts/Solidity%20API%20for%20TON.md)
 ## 编译器和工具
 >[概述](https://github.com/bsnton/bsn-docs/blob/911e94d2a92f390829eb6ed9dc3a863ab6443ec5/compilers%20and%20tools/General.md)  
->[TestSuite4](https://github.com/bsnton/bsn-docs/blob/f017d49b4832cf64f25e0bc2b1210d5386e24311/compilers%20and%20tools/TestSuite4.md)  
+>[TestSuite4](https://github.com/bsnton/bsn-docs/blob/f017d49b4832cf64f25e0bc2b1210d5386e24311/compilers%20and%20tools/TestSuite4.md)
+>[Video 教程](https://github.com/bsnton/bsn-docs/blob/5afe8c379c68b6cfe8f6f31b9458f2ce584b285a/compilers%20and%20tools/Video%20tutorials.md)    
+>[C++ for TVM](https://github.com/bsnton/bsn-docs/blob/5571f1793475c5d055362b6ea9ec1d160cc5a3d4/compilers%20and%20tools/C++%20for%20TVM.md)  
+>
