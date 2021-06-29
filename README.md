@@ -46,5 +46,5 @@ Debot开发指南：https://github.com/tonlabs/debots
 
 ## TON智能合约知识  
 >[概述](https://github.com/bsnton/bsn-docs/blob/5c7f47b2af82cd5706c36b6019f56312dddef25b/smart%20contract%20lore/Overview.md)  
->[管理TON的gas](https://github.com/bsnton/bsn-docs/blob)/5c7f47b2af82cd5706c36b6019f56312dddef25b/smart%20contract%20lore/Managing%20gas%20in%20TON.md)
+>[管理TON的gas](https://github.com/bsnton/bsn-docs/blob/f16e66cf3b40980d652ffe973f14e2fcfddadb46/smart%20contract%20lore/Managing%20gas%20in%20TON.md)
 >[fee计算详情](https://github.com/bsnton/bsn-docs/blob/5c7f47b2af82cd5706c36b6019f56312dddef25b/smart%20contract%20lore/Fee%20calculation%20details.md)
