@@ -6,8 +6,7 @@
 大同链（基于FreeTON）是一个真正去中心化、分布式、安全、可持续、可扩展、低延迟的世界计算机，我们可以将其理解为一个超级分布式处理器(TON Kernel)的平台。
 
 支持使用TVM(TON VM虚拟机)来执行用户编写的智能合约;支持Solidity、C、C++三种语言智能合约的编写和编译;同时支持13种主流语言的SDK开发,并提供了多种IDE开发环境,便于开发者快速地搭建智能合约开发环境，进行合约开发、编译、调试、测试和部署发布。用户可以使用GraphQL协议对链上数据进行全方位、快捷、灵活的检索。
-
-![image](https://user-images.githubusercontent.com/85273157/130896475-f1261351-c890-4b3f-a917-b05d36e51b66.png)
+![image](https://user-images.githubusercontent.com/85273157/130897540-16b2a375-a9c9-4785-b56d-c70e8e554c4a.png)
 
 
 
