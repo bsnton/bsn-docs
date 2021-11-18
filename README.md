@@ -40,11 +40,11 @@ Debot开发指南：https://github.com/tonlabs/debots
 
 # 写智能合约
 ## 写智能合约
->[使用TON智能合约说明](https://github.com/bsnton/bsn-docs/blob/9792d6a1a819fb04977380747908b06f6b5d0de8/write%20smart%20contracts/Getting%20started%20with%20TON%20smart%20contracts.md)  
+>[使用智能合约说明](https://github.com/bsnton/bsn-docs/blob/9792d6a1a819fb04977380747908b06f6b5d0de8/write%20smart%20contracts/Getting%20started%20with%20TON%20smart%20contracts.md)  
  >[使用Solidity写智能合约](https://github.com/bsnton/bsn-docs/blob/9792d6a1a819fb04977380747908b06f6b5d0de8/write%20smart%20contracts/Write%20smart%20contract%20in%20Solidity.md)  
 > [使用C++写智能合约](https://github.com/bsnton/bsn-docs/blob/9792d6a1a819fb04977380747908b06f6b5d0de8/write%20smart%20contracts/C++%20Tutorial.md)  
 > [使用C语言写giver](https://github.com/bsnton/bsn-docs/blob/9792d6a1a819fb04977380747908b06f6b5d0de8/write%20smart%20contracts/Giver%20in%20C.md)  
-> [TON solidity API](https://github.com/bsnton/bsn-docs/blob/9792d6a1a819fb04977380747908b06f6b5d0de8/write%20smart%20contracts/Solidity%20API%20for%20TON.md)
+> [EVER solidity API](https://github.com/bsnton/bsn-docs/blob/9792d6a1a819fb04977380747908b06f6b5d0de8/write%20smart%20contracts/Solidity%20API%20for%20TON.md)
 ## 编译器和工具
 >[概述](https://github.com/bsnton/bsn-docs/blob/911e94d2a92f390829eb6ed9dc3a863ab6443ec5/compilers%20and%20tools/General.md)  
 >[TestSuite4](https://github.com/bsnton/bsn-docs/blob/f017d49b4832cf64f25e0bc2b1210d5386e24311/compilers%20and%20tools/TestSuite4.md)  
@@ -54,7 +54,7 @@ Debot开发指南：https://github.com/tonlabs/debots
 
 ## TON智能合约知识  
 >[概述](https://github.com/bsnton/bsn-docs/blob/5c7f47b2af82cd5706c36b6019f56312dddef25b/smart%20contract%20lore/Overview.md)  
->[管理TON的gas](https://github.com/bsnton/bsn-docs/blob/f16e66cf3b40980d652ffe973f14e2fcfddadb46/smart%20contract%20lore/Managing%20gas%20in%20TON.md)  
+>[管理EVER的gas](https://github.com/bsnton/bsn-docs/blob/f16e66cf3b40980d652ffe973f14e2fcfddadb46/smart%20contract%20lore/Managing%20gas%20in%20TON.md)  
 >[fee计算详情](https://github.com/bsnton/bsn-docs/blob/5c7f47b2af82cd5706c36b6019f56312dddef25b/smart%20contract%20lore/Fee%20calculation%20details.md)  
 >[ABI 规范 V2](https://github.com/bsnton/bsn-docs/blob/06598e7a851b705c7825efa3190d92660357a3dd/smart%20contract%20lore/ABI%20Specification%20V2.md)  
 >[安全](https://github.com/bsnton/bsn-docs/blob/06598e7a851b705c7825efa3190d92660357a3dd/smart%20contract%20lore/Security.md)  
